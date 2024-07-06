@@ -35,6 +35,8 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
+  flutter_colorpicker: ^1.1.0
+  fluttertoast: ^8.2.6
 
 dev_dependencies:
   flutter_test:
@@ -62,12 +64,29 @@ flutter:
   assets:
     - assets/map_mobile_legends.png
     - assets/Minimap.png
-    - assets/akai.jpeg
-    - assets/chou.jpeg
-    - assets/angela.jpeg
-    - assets/mage.jpeg
-    - assets/jhonson.jpeg
-    - assets/digie.jpeg
+    - assets/hayabusa.png
+    - assets/chou.png
+    - assets/lancelot.png
+    - assets/gusion.png
+    - assets/nana.png
+    - assets/lunox.png
+    - assets/gatot_kaca.png
+    - assets/martis.png
+    - assets/akai.png
+    - assets/valir.png
+    - assets/vale.png
+    - assets/sun.png
+    - assets/leomord.png
+    - assets/kadita.png
+    - assets/zilong.png 
+    - assets/helcurt.png 
+    - assets/jungler.png 
+    - assets/midlane.png 
+    - assets/goldlane.png
+    - assets/roamer.png 
+    - assets/explane.png 
+    - assets/biru.png 
+    - assets/merah.png 
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

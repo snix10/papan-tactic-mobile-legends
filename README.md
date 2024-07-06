@@ -1,4 +1,9 @@
-# Papan_Tactic_mobile_legends
+# Papan_Taktik_mobile_legends
+
+![Alt teks](/screenshot/screenshot.png)
+![Alt teks](/screenshot/screenshot1.png)
+![Alt teks](/screenshot/screenshot2.png)
+![Alt teks](/screenshot/screenshot3.png)
 
 A new Flutter project.
 
